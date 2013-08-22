@@ -1,0 +1,8 @@
+TODO
+
+2003_0326 BTCarcich
+
+in tdu_init():  Replace parport_enumerate() calls with 
+parport_register_driver() calls and a structure with 
+tdu_attach()/tdu_detach() addresses in it 
+  - see /usr/src/linux/drivers/char/lp.c
