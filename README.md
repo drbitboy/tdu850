@@ -86,5 +86,7 @@ Miscellany:
 
 ########################################################################
 Copyright Brian Carcich, 2013.
-Many other copyrights from lp driver also apply; see tdu.c.
+
 Latchmoor Services, LLC.
+
+Many other copyrights from lp driver also apply; see tdu.c.
