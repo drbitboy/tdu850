@@ -3,7 +3,7 @@ tdu850
 
 ########################################################################
 Linux device driver for Ocean Data TDU-850, continuous thermal printer,
-300dpi, 8-bit gray levels.
+203dpi, 8-bit gray levels.
 
 Written and working at Cornell University ca. 2000-2003 to print Mars
 Global Surveyor "noodle" images from the Mars Orbiter Camera (MOC).
